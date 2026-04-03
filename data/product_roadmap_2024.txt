@@ -1,0 +1,9 @@
+NEXUS PROJECT ROADMAP - Q1 2024
+
+Q1 Focus: "The Autonomous Executive"
+- Jan: Launch Scout Agent with Google Search Grounding.
+- Feb: Integrate Librarian Agent with Vertex AI Search (RAG).
+- March: Full Workspace API integration (Google Calendar/Tasks).
+
+Core Vision:
+Nexus isn't a search tool; it's a "Venture OS" that automates the boring parts of being a founder. By EOY, Nexus should be able to handle cold outreach, schedule its own follow-ups, and manage a founder's entire inbox.

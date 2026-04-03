@@ -1,0 +1,11 @@
+BETA USER FEEDBACK SUMMARY (v0.8)
+
+Users Interviewed: 15 Early-stage Founders
+
+Common Pain Points:
+1. "I spend too much time preparing for investor meetings."
+2. "I forget what we discussed in the last meeting."
+3. "I need my AI to actually book my meetings, not just remind me."
+
+Winning Quote:
+"If Nexus can tell me *why* an investor might be interested based on their recent tweets, that's a game changer."

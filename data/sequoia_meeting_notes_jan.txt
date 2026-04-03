@@ -1,0 +1,10 @@
+DATE: January 15, 2024
+PARTICIPANTS: Sarah (Sequoia), Alex (Founder)
+TOPIC: Series A Initial Gut Check
+
+Key Takeaways:
+- Sequoia is impressed with our technical architecture on Vertex AI.
+- Sarah mentioned they are looking for "AI Agents that do more than just chat—they need to execute."
+- Concerns: We didn't have a clear answer on our multi-agent coordination strategy (Fixed in Nexus V2!).
+- Action Item: Bring a live demo of the "Synthesizer" logic to the next meeting.
+- Personal Note: Sarah likes black coffee and is interested in the intersection of AI and climate tech.
